@@ -13,7 +13,6 @@
         "text": "Read me"
     },
     "bannerUrl": "banner.png",
-    "githubRepos": [
-        "kratoxpup/softease"
-    ]
+    "githubRepos": [ "kratoxpup/softease" ],
+	"packages": []
 }
