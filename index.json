@@ -1,3 +1,19 @@
 {
-    "packages": []
+    "name": "Softease Fit n Fun",
+    "id": "io.github.kratoxpup.softease",
+    "url": "https://kratoxpup.github.io/softease/index.json",
+    "author": {
+        "email": "developer@vrchat.com",
+        "name": "Kratox",
+        "url": "https://github.com/kratoxpup"
+    },
+    "description": "Softease packages",
+    "infoLink": {
+        "url": "https://github.com/kratoxpup/softease",
+        "text": "Read me"
+    },
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "kratoxpup/softease"
+    ]
 }
