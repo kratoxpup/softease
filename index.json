@@ -16,11 +16,5 @@
   "githubRepos": [
     "kratoxpup/Softease"
   ],
-  "packages": [
-    {
-      "id": "io.github.kratoxpup.examplepackage",
-      "version": "1.0.0",
-      "url": "https://kratoxpup.github.io/Softease/examplepackage.json"
-    }
-  ]
+  "packages": []
 }
