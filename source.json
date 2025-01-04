@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "Softease Fit n Fun",
+    "id": "io.github.kratoxpup.softease",
+    "url": "https://kratoxpup.github.io/softease/index.json",
+    "author": {
+        "email": "developer@vrchat.com",
+        "name": "Kratox",
+        "url": "https://github.com/kratoxpup"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+    "description": "Softease packages",
+    "infoLink": {
+        "url": "https://github.com/kratoxpup/softease",
+        "text": "Read me"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "kratoxpup/softease"
     ]
 }
