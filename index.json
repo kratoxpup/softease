@@ -3,5 +3,8 @@
     "author": "kratox",
     "url": "https://kratoxpup.github.io/softease/index.json",
     "id": "io.github.kratoxpup.softease",
+	"githubRepos":[
+        "kratoxpup/softease"
+    ],
     "packages": {}
 }
