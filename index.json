@@ -2,8 +2,13 @@
     "name": "Softease Fit n Fun",
     "author": "kratox",
     "url": "https://kratoxpup.github.io/softease/index.json",
+	"description":"Softease textures and maybe more",
+    "infoLink":{
+        "url":"http://github.com/kratoxpup/softease",
+        "text":"View on GitHub"
+    },
     "id": "io.github.kratoxpup.softease",
-	"githubRepos":[
+	"githubRepos":[ 
         "kratoxpup/softease"
     ],
     "packages": {
