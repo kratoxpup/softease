@@ -12,9 +12,11 @@
         "kratoxpup/softease"
     ],
     "packages": {
-			"name":"Softease Textures",
-            "releases":[
-                "https://github.com/kratoxpup/softease/archive/refs/tags/Testing.zip"
-            ]
+			"io.github.kratoxpup.softease.textures": {
+			"name": "Softease Textures",
+			"type": "Texture Package",
+			"releases": [
+				"https://github.com/kratoxpup/softease/archive/refs/tags/Testing.zip"
+			]
 	}
 }
