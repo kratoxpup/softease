@@ -13,5 +13,14 @@
         "text": "Read me"
     },
     "bannerUrl": "banner.png",
-    "githubRepos": [ "kratoxpup/softease" ]
+    "githubRepos": [ 
+		"kratoxpup/softease" 
+	],
+	 "packages":[
+        {
+            "name":"Softease Fit n Fun",
+            "releases":[
+                "https://github.com/kratoxpup/softease/releases/download/v1.0/Softease.Fit.n.Fun.zip"
+            ]
+        }
 }
